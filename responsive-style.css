@@ -1,0 +1,95 @@
+@media (max-width:1199px){
+    h1{
+        font-size: 65px;
+    }
+
+}
+@media(max-width:991px) {
+h2{
+    font-size: 30px;
+    line-height: 40px;
+}
+h3{
+    font-size: 20px;
+}
+.header_wrapper .navber-brand img{
+    max-width: 67px;
+}
+.header-scrolled{
+    height: auto;
+}
+.header_wrapper .navbar-collapse{
+    margin-top: -2px;
+}
+.header_wrapper .menu-navber-nav{
+    text-align: center;
+    background-color: white;
+    padding-bottom: 15px;
+}
+.header_wrapper .nav-item .nav-link{
+    margin-top: 15px;
+}
+.banner_wrapper{
+    padding-top: 70px;
+  }
+  .banner_wrapper .top-menu .card{
+   height: 200px;
+  }
+  .about_wrapper{
+    padding-bottom: unset;
+  }
+  .about_wrapper .card{
+    z-index: 10;
+    right: unset;
+    top:unset;
+    margin-top: 2%;
+  }
+  .offers_wrapper .card .offer-text{
+    width: 65%;
+  }
+
+
+
+
+
+
+
+
+}
+@media (max-width:1199px){
+    h1{
+        font-size: 40px;
+        line-height: 48px;
+    }
+    p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+}
+
+.review_wrapper .carousel-caption{
+    bottom: 0;
+}
+.review_wrapper .carousel-item{
+    min-height: 460px;
+}
+/* Add your existing CSS styles here */
+
+/* Additional styles for responsiveness */
+@media (max-width: 767px) {
+    .footer-logo {
+      text-align: center;
+    }
+    .social-icon {
+      justify-content: center;
+    }
+  }
+  @media screen and (max-width: 600px) {
+ 
+    .made {
+        width: 100%;
+    }
+}
+ 
+
+  
